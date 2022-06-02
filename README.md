@@ -19,6 +19,9 @@
 
   ## Usage
   Used for the basics of testing backend
+  
+  ![Screen Shot 2022-06-01 at 10 06 51 PM](https://user-images.githubusercontent.com/95864720/171532831-b555e561-0752-4fe9-9212-e8ab62087cde.png)
+
 
   ## License
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)

@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
     
   ## Description
-  This application uses Object Mapping Mapping to create a E-commerce back end   site that uses express.js API and configured to  intereact with the MyuSql DATABASE
+  This application uses Object Mapping Mapping to create a E-commerce back end website that uses express.js API and configured to intereact with the MySql database
 
   ## Table of Contents
   - [Description](#description)
